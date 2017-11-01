@@ -1,0 +1,2 @@
+json_key_file "/Users/ticketservices/Desktop/FASTLANE/Google\ Play\ Android\ Developer-53cc4dd05fb5.json" # Path to the json secret file - Follow https://github.com/fastlane/supply#setup to get one
+package_name "br.com.mirabilis.gptestefast" # e.g. com.krausefx.app
